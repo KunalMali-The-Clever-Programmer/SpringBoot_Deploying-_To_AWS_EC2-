@@ -199,7 +199,10 @@ netstat -tulnp | grep 8080
 * Setup **CI/CD with GitHub Actions**
 
 ---
+## Run 
+Defulat url ==http://localhost:8080/home
 
+After AWS deployeing url == http://(AWS EC2 public IP):8080/home
 ### 👨‍💻 Author
 
 Kunal Mali
